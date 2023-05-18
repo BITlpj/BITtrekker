@@ -5,10 +5,12 @@ from selenium.webdriver.common.by import By
 import datetime
 import time
 import json
-cross_time=7
+crossTime=7
 data= {}
 buildingList={2:"文萃楼",3:"综合教学楼A",7:"综合教学楼B",10:"理科教学楼"}
 buildingIndex=[2,3,7,10]
+ID="your ID"
+passWord="your password"
 for index in buildingIndex:#选择教室
     #设置虚拟浏览器属性
     browser = webdriver.Chrome()
@@ -17,8 +19,8 @@ for index in buildingIndex:#选择教室
     name=browser.find_element(By.ID,'username')
     password=browser.find_element(By.ID,'password')
     loginButton=browser.find_element(By.ID,'login_submit')
-    name.send_keys('1120201961')
-    password.send_keys("LPJssd!hhd!LACc0")
+    name.send_keys(ID)
+    password.send_keys(password)
     loginButton.click()
     browser.implicitly_wait(11)
     #选择良乡校区
@@ -33,7 +35,7 @@ for index in buildingIndex:#选择教室
     time.sleep(0.2)
     buildings.click()
     date = datetime.date.today()  # 现在的时间
-    for add_time in range(0,cross_time):#遍历cross_time的课表
+    for add_time in range(0, crossTime):#遍历cross_time的课表
 
         dateSelectionObject=browser.find_element(By.CSS_SELECTOR, "#inputselectDate")
         dateSelectionObject.clear()

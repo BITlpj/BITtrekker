@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ffc3f77e-75b8-4c52-897d-d1090accae82" name="更改" comment="基础版本（html,img,json实现）">
-      <change afterPath="$PROJECT_DIR$/chromedriver_win32/LICENSE.chromedriver" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chromedriver_win32/chromedriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pachong/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pachong/文萃楼.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pachong/理科教学楼.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pachong/综合教学楼A.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pachong/综合教学楼B.json" afterDir="false" />
+    <list default="true" id="ffc3f77e-75b8-4c52-897d-d1090accae82" name="更改" comment="基础版本（html,img,json,网络爬虫，数据库实现）">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pachong/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/pachong/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +78,8 @@
       <workItem from="1683431448335" duration="855000" />
       <workItem from="1683435019811" duration="786000" />
       <workItem from="1684388483297" duration="1048000" />
-      <workItem from="1684395535994" duration="20851000" />
+      <workItem from="1684395535994" duration="20956000" />
+      <workItem from="1684428931565" duration="1420000" />
     </task>
     <task id="LOCAL-00001" summary="基础版本（html,img,json实现）">
       <created>1683263871136</created>
@@ -92,7 +88,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683263871136</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="基础版本（html,img,json,网络爬虫，数据库实现）">
+      <created>1684428525026</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1684428525026</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,7 +115,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="基础版本（html,img,json实现）" />
-    <option name="LAST_COMMIT_MESSAGE" value="基础版本（html,img,json实现）" />
+    <MESSAGE value="基础版本（html,img,json,网络爬虫，数据库实现）" />
+    <option name="LAST_COMMIT_MESSAGE" value="基础版本（html,img,json,网络爬虫，数据库实现）" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/python_web$main.coverage" NAME="main 覆盖结果" MODIFIED="1683190742752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
