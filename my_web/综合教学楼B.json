@@ -1,0 +1,514 @@
+{
+  "7": {
+    "2023-05-31": {
+      "线上考试2": [
+        "线上考试2",
+        "free",
+        "free",
+        "free",
+        "free",
+        "free"
+      ],
+      "综教B101": [
+        "综教B101",
+        "60",
+        "智慧教室",
+        "occupied",
+        "occupied",
+        "occupied",
+        "occupied",
+        "occupied"
+      ],
+      "综教B102": [
+        "综教B102",
+        "60",
+        "智慧教室",
+        "free",
+        "free",
+        "free",
+        "occupied",
+        "occupied"
+      ],
+      "综教B103": [
+        "综教B103",
+        "70",
+        "智慧教室",
+        "free",
+        "occupied",
+        "free",
+        "occupied",
+        "occupied"
+      ],
+      "综教B104": [
+        "综教B104",
+        "45",
+        "智慧教室",
+        "occupied",
+        "free",
+        "occupied",
+        "occupied",
+        "occupied"
+      ],
+      "综教B105": [
+        "综教B105",
+        "36",
+        "智慧教室",
+        "occupied",
+        "free",
+        "occupied",
+        "occupied",
+        "occupied"
+      ],
+      "综教B201": [
+        "综教B201",
+        "93",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "free",
+        "free",
+        "occupied"
+      ],
+      "综教B202": [
+        "综教B202",
+        "93",
+        "普通多媒体",
+        "occupied",
+        "occupied",
+        "free",
+        "free",
+        "free"
+      ],
+      "综教B203": [
+        "综教B203",
+        "93",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "free",
+        "occupied",
+        "occupied"
+      ],
+      "综教B204": [
+        "综教B204",
+        "93",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "free",
+        "occupied",
+        "free"
+      ],
+      "综教B205": [
+        "综教B205",
+        "36",
+        "智慧教室",
+        "occupied",
+        "free",
+        "free",
+        "free",
+        "free"
+      ],
+      "综教B403": [
+        "综教B403",
+        "108",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "free",
+        "occupied",
+        "free"
+      ],
+      "综教B404": [
+        "综教B404",
+        "60",
+        "录播教室",
+        "free",
+        "free",
+        "free",
+        "free",
+        "free"
+      ],
+      "综教B405": [
+        "综教B405",
+        "60",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "occupied",
+        "occupied",
+        "free"
+      ],
+      "综教B406": [
+        "综教B406",
+        "60",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "free",
+        "free",
+        "free"
+      ],
+      "综教B501": [
+        "综教B501",
+        "94",
+        "普通多媒体",
+        "free",
+        "free",
+        "free",
+        "occupied",
+        "free"
+      ],
+      "综教B502": [
+        "综教B502",
+        "94",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "free",
+        "free",
+        "free"
+      ],
+      "综教B503": [
+        "综教B503",
+        "94",
+        "普通多媒体",
+        "free",
+        "free",
+        "free",
+        "free",
+        "free"
+      ],
+      "综教B504": [
+        "综教B504",
+        "90",
+        "普通多媒体",
+        "free",
+        "free",
+        "occupied",
+        "free",
+        "free"
+      ],
+      "综教B505": [
+        "综教B505",
+        "60",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "free",
+        "free",
+        "free"
+      ],
+      "综教B506(语音室)": [
+        "综教B506(语音室)",
+        "46",
+        "听音室",
+        "free",
+        "free",
+        "free",
+        "free",
+        "free"
+      ]
+    },
+    "2023-06-01": {
+      "线上考试2": [
+        "线上考试2",
+        "free",
+        "free",
+        "free",
+        "free",
+        "free"
+      ],
+      "综教B101": [
+        "综教B101",
+        "60",
+        "智慧教室",
+        "free",
+        "occupied",
+        "occupied",
+        "occupied",
+        "free"
+      ],
+      "综教B102": [
+        "综教B102",
+        "60",
+        "智慧教室",
+        "free",
+        "free",
+        "occupied",
+        "occupied",
+        "free"
+      ],
+      "综教B103": [
+        "综教B103",
+        "70",
+        "智慧教室",
+        "occupied",
+        "occupied",
+        "occupied",
+        "free",
+        "occupied"
+      ],
+      "综教B104": [
+        "综教B104",
+        "45",
+        "智慧教室",
+        "free",
+        "occupied",
+        "free",
+        "occupied",
+        "free"
+      ],
+      "综教B105": [
+        "综教B105",
+        "36",
+        "智慧教室",
+        "free",
+        "free",
+        "free",
+        "occupied",
+        "free"
+      ],
+      "综教B201": [
+        "综教B201",
+        "93",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "occupied",
+        "free",
+        "free"
+      ],
+      "综教B202": [
+        "综教B202",
+        "93",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "occupied",
+        "free",
+        "free"
+      ],
+      "综教B203": [
+        "综教B203",
+        "93",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "occupied",
+        "occupied",
+        "free"
+      ],
+      "综教B204": [
+        "综教B204",
+        "93",
+        "普通多媒体",
+        "occupied",
+        "occupied",
+        "occupied",
+        "occupied",
+        "occupied"
+      ],
+      "综教B205": [
+        "综教B205",
+        "36",
+        "智慧教室",
+        "occupied",
+        "occupied",
+        "occupied",
+        "occupied",
+        "occupied"
+      ],
+      "综教B206": [
+        "综教B206",
+        "36",
+        "智慧教室",
+        "occupied",
+        "occupied",
+        "occupied",
+        "occupied",
+        "free"
+      ],
+      "综教B301": [
+        "综教B301",
+        "93",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "free",
+        "occupied",
+        "free"
+      ],
+      "综教B302": [
+        "综教B302",
+        "93",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "occupied",
+        "free",
+        "occupied"
+      ],
+      "综教B303": [
+        "综教B303",
+        "93",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "free",
+        "occupied",
+        "occupied"
+      ],
+      "综教B304": [
+        "综教B304",
+        "93",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "occupied",
+        "occupied",
+        "free"
+      ],
+      "综教B305": [
+        "综教B305",
+        "60",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "occupied",
+        "free",
+        "free"
+      ],
+      "综教B306": [
+        "综教B306",
+        "60",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "occupied",
+        "free",
+        "occupied"
+      ],
+      "综教B401": [
+        "综教B401",
+        "50",
+        "模拟法庭",
+        "free",
+        "free",
+        "free",
+        "free",
+        "free"
+      ],
+      "综教B402": [
+        "综教B402",
+        "108",
+        "普通多媒体",
+        "occupied",
+        "occupied",
+        "free",
+        "occupied",
+        "free"
+      ],
+      "综教B403": [
+        "综教B403",
+        "108",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "free",
+        "free",
+        "occupied"
+      ],
+      "综教B404": [
+        "综教B404",
+        "60",
+        "录播教室",
+        "free",
+        "free",
+        "free",
+        "free",
+        "free"
+      ],
+      "综教B405": [
+        "综教B405",
+        "60",
+        "普通多媒体",
+        "occupied",
+        "occupied",
+        "free",
+        "occupied",
+        "free"
+      ],
+      "综教B406": [
+        "综教B406",
+        "60",
+        "普通多媒体",
+        "occupied",
+        "occupied",
+        "occupied",
+        "occupied",
+        "free"
+      ],
+      "综教B501": [
+        "综教B501",
+        "94",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "occupied",
+        "occupied",
+        "free"
+      ],
+      "综教B502": [
+        "综教B502",
+        "94",
+        "普通多媒体",
+        "free",
+        "free",
+        "occupied",
+        "occupied",
+        "free"
+      ],
+      "综教B503": [
+        "综教B503",
+        "94",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "free",
+        "free",
+        "free"
+      ],
+      "综教B504": [
+        "综教B504",
+        "90",
+        "普通多媒体",
+        "occupied",
+        "occupied",
+        "occupied",
+        "occupied",
+        "free"
+      ],
+      "综教B505": [
+        "综教B505",
+        "60",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "free",
+        "occupied",
+        "free"
+      ],
+      "综教B506(语音室)": [
+        "综教B506(语音室)",
+        "46",
+        "听音室",
+        "free",
+        "free",
+        "free",
+        "free",
+        "free"
+      ]
+    }
+  }
+}

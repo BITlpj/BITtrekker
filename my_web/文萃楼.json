@@ -1,0 +1,2516 @@
+{
+  "2": {
+    "2023-05-31": {
+      "文萃楼B129": [
+        "文萃楼B129",
+        "42",
+        "智慧教室",
+        "occupied",
+        "occupied",
+        "free",
+        "occupied",
+        "free"
+      ],
+      "文萃楼B130": [
+        "文萃楼B130",
+        "134",
+        "普通多媒体",
+        "occupied",
+        "occupied",
+        "free",
+        "free",
+        "free"
+      ],
+      "文萃楼B139": [
+        "文萃楼B139",
+        "148",
+        "普通多媒体",
+        "occupied",
+        "occupied",
+        "occupied",
+        "occupied",
+        "free"
+      ],
+      "文萃楼B140": [
+        "文萃楼B140",
+        "160",
+        "普通多媒体",
+        "free",
+        "free",
+        "free",
+        "free",
+        "occupied"
+      ],
+      "文萃楼B221": [
+        "文萃楼B221",
+        "48",
+        "智慧教室",
+        "occupied",
+        "occupied",
+        "occupied",
+        "free",
+        "free"
+      ],
+      "文萃楼B222": [
+        "文萃楼B222",
+        "47",
+        "智慧教室",
+        "free",
+        "free",
+        "occupied",
+        "occupied",
+        "occupied"
+      ],
+      "文萃楼B223": [
+        "文萃楼B223",
+        "48",
+        "智慧教室",
+        "free",
+        "free",
+        "free",
+        "free",
+        "free"
+      ],
+      "文萃楼B224": [
+        "文萃楼B224",
+        "47",
+        "智慧教室",
+        "occupied",
+        "occupied",
+        "occupied",
+        "occupied",
+        "free"
+      ],
+      "文萃楼B227": [
+        "文萃楼B227",
+        "80",
+        "智慧教室",
+        "occupied",
+        "occupied",
+        "occupied",
+        "occupied",
+        "free"
+      ],
+      "文萃楼B228": [
+        "文萃楼B228",
+        "134",
+        "普通多媒体",
+        "occupied",
+        "occupied",
+        "free",
+        "free",
+        "occupied"
+      ],
+      "文萃楼B233": [
+        "文萃楼B233",
+        "42",
+        "智慧教室",
+        "occupied",
+        "occupied",
+        "occupied",
+        "free",
+        "free"
+      ],
+      "文萃楼C501a": [
+        "文萃楼C501a",
+        "60",
+        "实验室",
+        "free",
+        "free",
+        "free",
+        "free",
+        "free"
+      ],
+      "文萃楼C501b": [
+        "文萃楼C501b",
+        "60",
+        "实验室",
+        "free",
+        "free",
+        "free",
+        "free",
+        "free"
+      ],
+      "文萃楼C501c": [
+        "文萃楼C501c",
+        "60",
+        "实验室",
+        "free",
+        "free",
+        "free",
+        "free",
+        "free"
+      ],
+      "文萃楼C501d": [
+        "文萃楼C501d",
+        "60",
+        "实验室",
+        "free",
+        "free",
+        "free",
+        "free",
+        "free"
+      ],
+      "文萃楼C505": [
+        "文萃楼C505",
+        "60",
+        "实验室",
+        "free",
+        "free",
+        "free",
+        "free",
+        "free"
+      ],
+      "文萃楼C506": [
+        "文萃楼C506",
+        "60",
+        "实验室",
+        "free",
+        "free",
+        "free",
+        "free",
+        "free"
+      ],
+      "文萃楼C605": [
+        "文萃楼C605",
+        "60",
+        "实验室",
+        "free",
+        "free",
+        "free",
+        "free",
+        "free"
+      ],
+      "文萃楼C703": [
+        "文萃楼C703",
+        "60",
+        "实验室",
+        "free",
+        "free",
+        "free",
+        "free",
+        "free"
+      ],
+      "文萃楼C705": [
+        "文萃楼C705",
+        "60",
+        "实验室",
+        "free",
+        "free",
+        "free",
+        "free",
+        "free"
+      ],
+      "文萃楼C803": [
+        "文萃楼C803",
+        "60",
+        "实验室",
+        "free",
+        "free",
+        "free",
+        "free",
+        "free"
+      ],
+      "文萃楼C805": [
+        "文萃楼C805",
+        "60",
+        "实验室",
+        "free",
+        "free",
+        "free",
+        "free",
+        "free"
+      ],
+      "文萃楼C806": [
+        "文萃楼C806",
+        "60",
+        "实验室",
+        "occupied",
+        "occupied",
+        "occupied",
+        "occupied",
+        "free"
+      ],
+      "文萃楼F201": [
+        "文萃楼F201",
+        "30",
+        "智慧教室",
+        "free",
+        "free",
+        "occupied",
+        "occupied",
+        "free"
+      ],
+      "文萃楼F202": [
+        "文萃楼F202",
+        "119",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "free",
+        "free",
+        "occupied"
+      ],
+      "文萃楼F203": [
+        "文萃楼F203",
+        "36",
+        "智慧教室",
+        "free",
+        "free",
+        "occupied",
+        "occupied",
+        "free"
+      ],
+      "文萃楼F204": [
+        "文萃楼F204",
+        "121",
+        "普通多媒体",
+        "occupied",
+        "occupied",
+        "free",
+        "free",
+        "free"
+      ],
+      "文萃楼F205": [
+        "文萃楼F205",
+        "30",
+        "智慧教室",
+        "occupied",
+        "occupied",
+        "occupied",
+        "occupied",
+        "free"
+      ],
+      "文萃楼F301": [
+        "文萃楼F301",
+        "80",
+        "智慧教室",
+        "free",
+        "free",
+        "occupied",
+        "free",
+        "free"
+      ],
+      "文萃楼F302": [
+        "文萃楼F302",
+        "121",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "free",
+        "occupied",
+        "occupied"
+      ],
+      "文萃楼F303": [
+        "文萃楼F303",
+        "36",
+        "智慧教室",
+        "free",
+        "free",
+        "occupied",
+        "free",
+        "free"
+      ],
+      "文萃楼F304": [
+        "文萃楼F304",
+        "121",
+        "普通多媒体",
+        "occupied",
+        "occupied",
+        "free",
+        "occupied",
+        "free"
+      ],
+      "文萃楼F305": [
+        "文萃楼F305",
+        "80",
+        "智慧教室",
+        "free",
+        "free",
+        "occupied",
+        "occupied",
+        "free"
+      ],
+      "文萃楼F401": [
+        "文萃楼F401",
+        "80",
+        "智慧教室",
+        "free",
+        "free",
+        "free",
+        "occupied",
+        "free"
+      ],
+      "文萃楼F402": [
+        "文萃楼F402",
+        "121",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "free",
+        "occupied",
+        "free"
+      ],
+      "文萃楼F403": [
+        "文萃楼F403",
+        "36",
+        "智慧教室",
+        "free",
+        "occupied",
+        "free",
+        "occupied",
+        "free"
+      ],
+      "文萃楼F404": [
+        "文萃楼F404",
+        "121",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "free",
+        "occupied",
+        "occupied"
+      ],
+      "文萃楼F405": [
+        "文萃楼F405",
+        "80",
+        "智慧教室",
+        "free",
+        "occupied",
+        "free",
+        "free",
+        "free"
+      ],
+      "文萃楼F501": [
+        "文萃楼F501",
+        "80",
+        "智慧教室",
+        "free",
+        "occupied",
+        "free",
+        "free",
+        "free"
+      ],
+      "文萃楼F502": [
+        "文萃楼F502",
+        "121",
+        "普通多媒体",
+        "occupied",
+        "occupied",
+        "occupied",
+        "occupied",
+        "free"
+      ],
+      "文萃楼F503": [
+        "文萃楼F503",
+        "36",
+        "智慧教室",
+        "occupied",
+        "occupied",
+        "occupied",
+        "free",
+        "free"
+      ],
+      "文萃楼F504": [
+        "文萃楼F504",
+        "121",
+        "普通多媒体",
+        "free",
+        "free",
+        "occupied",
+        "free",
+        "free"
+      ],
+      "文萃楼F505": [
+        "文萃楼F505",
+        "80",
+        "智慧教室",
+        "free",
+        "occupied",
+        "free",
+        "free",
+        "free"
+      ],
+      "文萃楼F601": [
+        "文萃楼F601",
+        "80",
+        "智慧教室",
+        "occupied",
+        "occupied",
+        "occupied",
+        "occupied",
+        "free"
+      ],
+      "文萃楼F602": [
+        "文萃楼F602",
+        "121",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "free",
+        "occupied",
+        "occupied"
+      ],
+      "文萃楼F603": [
+        "文萃楼F603",
+        "36",
+        "智慧教室",
+        "occupied",
+        "occupied",
+        "occupied",
+        "occupied",
+        "free"
+      ],
+      "文萃楼F604": [
+        "文萃楼F604",
+        "121",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "free",
+        "occupied",
+        "occupied"
+      ],
+      "文萃楼F605": [
+        "文萃楼F605",
+        "80",
+        "智慧教室",
+        "occupied",
+        "occupied",
+        "occupied",
+        "occupied",
+        "free"
+      ],
+      "文萃楼F701": [
+        "文萃楼F701",
+        "80",
+        "智慧教室",
+        "free",
+        "occupied",
+        "free",
+        "occupied",
+        "free"
+      ],
+      "文萃楼F702": [
+        "文萃楼F702",
+        "121",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "free",
+        "occupied",
+        "free"
+      ],
+      "文萃楼F703": [
+        "文萃楼F703",
+        "36",
+        "智慧教室",
+        "occupied",
+        "free",
+        "occupied",
+        "occupied",
+        "occupied"
+      ],
+      "文萃楼F704": [
+        "文萃楼F704",
+        "120",
+        "普通多媒体",
+        "free",
+        "free",
+        "occupied",
+        "free",
+        "free"
+      ],
+      "文萃楼F705": [
+        "文萃楼F705",
+        "80",
+        "智慧教室",
+        "free",
+        "free",
+        "occupied",
+        "occupied",
+        "free"
+      ],
+      "文萃楼G124": [
+        "文萃楼G124",
+        "42",
+        "智慧教室",
+        "free",
+        "free",
+        "occupied",
+        "occupied",
+        "free"
+      ],
+      "文萃楼G125": [
+        "文萃楼G125",
+        "164",
+        "普通多媒体",
+        "occupied",
+        "occupied",
+        "free",
+        "occupied",
+        "occupied"
+      ],
+      "文萃楼G126": [
+        "文萃楼G126",
+        "156",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "occupied",
+        "free",
+        "occupied"
+      ],
+      "文萃楼G130": [
+        "文萃楼G130",
+        "148",
+        "普通多媒体",
+        "occupied",
+        "occupied",
+        "free",
+        "occupied",
+        "free"
+      ],
+      "文萃楼G221": [
+        "文萃楼G221",
+        "78",
+        "智慧教室",
+        "free",
+        "free",
+        "occupied",
+        "free",
+        "free"
+      ],
+      "文萃楼G222": [
+        "文萃楼G222",
+        "80",
+        "智慧教室",
+        "free",
+        "occupied",
+        "occupied",
+        "occupied",
+        "occupied"
+      ],
+      "文萃楼G223": [
+        "文萃楼G223",
+        "80",
+        "智慧教室",
+        "free",
+        "free",
+        "free",
+        "free",
+        "free"
+      ],
+      "文萃楼G224": [
+        "文萃楼G224",
+        "80",
+        "智慧教室",
+        "free",
+        "free",
+        "free",
+        "free",
+        "free"
+      ],
+      "文萃楼G227": [
+        "文萃楼G227",
+        "80",
+        "智慧教室",
+        "free",
+        "occupied",
+        "free",
+        "occupied",
+        "free"
+      ],
+      "文萃楼H124良乡一号机房": [
+        "文萃楼H124良乡一号机房",
+        "32",
+        "计算机机房",
+        "free",
+        "free",
+        "free",
+        "free",
+        "free"
+      ],
+      "文萃楼H125良乡二号机房": [
+        "文萃楼H125良乡二号机房",
+        "80",
+        "计算机机房",
+        "free",
+        "occupied",
+        "occupied",
+        "occupied",
+        "free"
+      ],
+      "文萃楼H126良乡三号机房": [
+        "文萃楼H126良乡三号机房",
+        "80",
+        "计算机机房",
+        "free",
+        "free",
+        "occupied",
+        "free",
+        "free"
+      ],
+      "文萃楼H130": [
+        "文萃楼H130",
+        "148",
+        "普通多媒体",
+        "occupied",
+        "occupied",
+        "free",
+        "free",
+        "free"
+      ],
+      "文萃楼H221良乡四号机房": [
+        "文萃楼H221良乡四号机房",
+        "96",
+        "计算机机房",
+        "free",
+        "occupied",
+        "free",
+        "free",
+        "free"
+      ],
+      "文萃楼H222良乡五号机房": [
+        "文萃楼H222良乡五号机房",
+        "96",
+        "计算机机房",
+        "free",
+        "free",
+        "free",
+        "free",
+        "free"
+      ],
+      "文萃楼H226良乡六号机房": [
+        "文萃楼H226良乡六号机房",
+        "143",
+        "计算机机房",
+        "free",
+        "free",
+        "free",
+        "occupied",
+        "free"
+      ],
+      "文萃楼H229良乡七号机房": [
+        "文萃楼H229良乡七号机房",
+        "72",
+        "计算机机房",
+        "free",
+        "free",
+        "free",
+        "free",
+        "free"
+      ],
+      "文萃楼I101": [
+        "文萃楼I101",
+        "30",
+        "智慧教室",
+        "occupied",
+        "occupied",
+        "occupied",
+        "free",
+        "occupied"
+      ],
+      "文萃楼I102": [
+        "文萃楼I102",
+        "100",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "occupied",
+        "occupied",
+        "free"
+      ],
+      "文萃楼I103": [
+        "文萃楼I103",
+        "100",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "occupied",
+        "occupied",
+        "occupied"
+      ],
+      "文萃楼I201": [
+        "文萃楼I201",
+        "30",
+        "智慧教室",
+        "occupied",
+        "occupied",
+        "occupied",
+        "occupied",
+        "occupied"
+      ],
+      "文萃楼I202": [
+        "文萃楼I202",
+        "100",
+        "普通多媒体",
+        "occupied",
+        "occupied",
+        "occupied",
+        "occupied",
+        "free"
+      ],
+      "文萃楼I203": [
+        "文萃楼I203",
+        "36",
+        "智慧教室",
+        "occupied",
+        "free",
+        "occupied",
+        "occupied",
+        "free"
+      ],
+      "文萃楼I204": [
+        "文萃楼I204",
+        "100",
+        "普通多媒体",
+        "occupied",
+        "free",
+        "free",
+        "occupied",
+        "free"
+      ],
+      "文萃楼I205": [
+        "文萃楼I205",
+        "30",
+        "智慧教室",
+        "occupied",
+        "occupied",
+        "occupied",
+        "occupied",
+        "occupied"
+      ],
+      "文萃楼I301": [
+        "文萃楼I301",
+        "80",
+        "智慧教室",
+        "free",
+        "occupied",
+        "occupied",
+        "occupied",
+        "free"
+      ],
+      "文萃楼I302": [
+        "文萃楼I302",
+        "100",
+        "普通多媒体",
+        "free",
+        "free",
+        "free",
+        "free",
+        "free"
+      ],
+      "文萃楼I303": [
+        "文萃楼I303",
+        "36",
+        "智慧教室",
+        "occupied",
+        "free",
+        "occupied",
+        "occupied",
+        "occupied"
+      ],
+      "文萃楼I304": [
+        "文萃楼I304",
+        "100",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "occupied",
+        "free",
+        "free"
+      ],
+      "文萃楼I305": [
+        "文萃楼I305",
+        "80",
+        "智慧教室",
+        "free",
+        "free",
+        "free",
+        "free",
+        "free"
+      ],
+      "文萃楼I401": [
+        "文萃楼I401",
+        "80",
+        "智慧教室",
+        "free",
+        "occupied",
+        "free",
+        "free",
+        "free"
+      ],
+      "文萃楼I402": [
+        "文萃楼I402",
+        "100",
+        "普通多媒体",
+        "free",
+        "free",
+        "occupied",
+        "free",
+        "free"
+      ],
+      "文萃楼I403": [
+        "文萃楼I403",
+        "36",
+        "智慧教室",
+        "occupied",
+        "free",
+        "occupied",
+        "occupied",
+        "occupied"
+      ],
+      "文萃楼I404": [
+        "文萃楼I404",
+        "100",
+        "普通多媒体",
+        "free",
+        "free",
+        "free",
+        "occupied",
+        "free"
+      ],
+      "文萃楼I405": [
+        "文萃楼I405",
+        "80",
+        "智慧教室",
+        "free",
+        "occupied",
+        "free",
+        "free",
+        "free"
+      ],
+      "文萃楼I501": [
+        "文萃楼I501",
+        "80",
+        "智慧教室",
+        "free",
+        "free",
+        "free",
+        "free",
+        "free"
+      ],
+      "文萃楼I502": [
+        "文萃楼I502",
+        "100",
+        "普通多媒体",
+        "occupied",
+        "occupied",
+        "free",
+        "free",
+        "free"
+      ],
+      "文萃楼I503": [
+        "文萃楼I503",
+        "36",
+        "智慧教室",
+        "occupied",
+        "free",
+        "occupied",
+        "occupied",
+        "free"
+      ],
+      "文萃楼I504": [
+        "文萃楼I504",
+        "100",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "free",
+        "free",
+        "free"
+      ],
+      "文萃楼I505": [
+        "文萃楼I505",
+        "80",
+        "智慧教室",
+        "free",
+        "free",
+        "free",
+        "free",
+        "free"
+      ],
+      "文萃楼I601": [
+        "文萃楼I601",
+        "80",
+        "智慧教室",
+        "free",
+        "free",
+        "occupied",
+        "occupied",
+        "free"
+      ],
+      "文萃楼I602": [
+        "文萃楼I602",
+        "100",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "free",
+        "occupied",
+        "free"
+      ],
+      "文萃楼I603": [
+        "文萃楼I603",
+        "36",
+        "智慧教室",
+        "occupied",
+        "occupied",
+        "occupied",
+        "occupied",
+        "free"
+      ],
+      "文萃楼I604": [
+        "文萃楼I604",
+        "100",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "free",
+        "occupied",
+        "free"
+      ],
+      "文萃楼I605": [
+        "文萃楼I605",
+        "80",
+        "智慧教室",
+        "free",
+        "free",
+        "occupied",
+        "occupied",
+        "free"
+      ],
+      "文萃楼I701": [
+        "文萃楼I701",
+        "80",
+        "智慧教室",
+        "free",
+        "free",
+        "free",
+        "free",
+        "free"
+      ],
+      "文萃楼I702": [
+        "文萃楼I702",
+        "100",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "free",
+        "free",
+        "free"
+      ],
+      "文萃楼I703": [
+        "文萃楼I703",
+        "36",
+        "智慧教室",
+        "occupied",
+        "occupied",
+        "occupied",
+        "free",
+        "free"
+      ],
+      "文萃楼I704": [
+        "文萃楼I704",
+        "100",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "free",
+        "occupied",
+        "free"
+      ],
+      "文萃楼I705": [
+        "文萃楼I705",
+        "80",
+        "智慧教室",
+        "free",
+        "occupied",
+        "free",
+        "free",
+        "free"
+      ],
+      "文萃楼J909": [
+        "文萃楼J909",
+        "0",
+        "实验室",
+        "free",
+        "free",
+        "free",
+        "free",
+        "free"
+      ],
+      "文萃楼J911": [
+        "文萃楼J911",
+        "41",
+        "实验室",
+        "free",
+        "free",
+        "free",
+        "free",
+        "free"
+      ],
+      "文萃楼J916": [
+        "文萃楼J916",
+        "40",
+        "实验室",
+        "free",
+        "free",
+        "free",
+        "free",
+        "free"
+      ],
+      "文萃楼L106": [
+        "文萃楼L106",
+        "30",
+        "实验室",
+        "free",
+        "free",
+        "free",
+        "free",
+        "free"
+      ],
+      "文萃楼L614": [
+        "文萃楼L614",
+        "32",
+        "实验室",
+        "free",
+        "free",
+        "free",
+        "free",
+        "free"
+      ],
+      "文萃楼L812": [
+        "文萃楼L812",
+        "32",
+        "实验室",
+        "free",
+        "free",
+        "free",
+        "free",
+        "free"
+      ],
+      "文萃楼M124": [
+        "文萃楼M124",
+        "42",
+        "智慧教室",
+        "occupied",
+        "occupied",
+        "occupied",
+        "occupied",
+        "occupied"
+      ],
+      "文萃楼M125": [
+        "文萃楼M125",
+        "134",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "free",
+        "occupied",
+        "free"
+      ],
+      "文萃楼M134": [
+        "文萃楼M134",
+        "149",
+        "普通多媒体",
+        "occupied",
+        "occupied",
+        "occupied",
+        "occupied",
+        "occupied"
+      ],
+      "文萃楼M135": [
+        "文萃楼M135",
+        "160",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "free",
+        "free",
+        "occupied"
+      ],
+      "文萃楼M221": [
+        "文萃楼M221",
+        "80",
+        "智慧教室",
+        "occupied",
+        "free",
+        "occupied",
+        "occupied",
+        "free"
+      ],
+      "文萃楼M222": [
+        "文萃楼M222",
+        "80",
+        "智慧教室",
+        "occupied",
+        "occupied",
+        "occupied",
+        "occupied",
+        "free"
+      ],
+      "文萃楼M223": [
+        "文萃楼M223",
+        "80",
+        "智慧教室",
+        "free",
+        "occupied",
+        "free",
+        "free",
+        "free"
+      ],
+      "文萃楼M224": [
+        "文萃楼M224",
+        "80",
+        "智慧教室",
+        "occupied",
+        "occupied",
+        "occupied",
+        "occupied",
+        "occupied"
+      ],
+      "文萃楼M227": [
+        "文萃楼M227",
+        "80",
+        "智慧教室",
+        "free",
+        "free",
+        "free",
+        "free",
+        "free"
+      ],
+      "文萃楼M228": [
+        "文萃楼M228",
+        "134",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "occupied",
+        "free",
+        "occupied"
+      ],
+      "文萃楼M233": [
+        "文萃楼M233",
+        "42",
+        "智慧教室",
+        "free",
+        "free",
+        "occupied",
+        "free",
+        "free"
+      ],
+      "文萃楼报告厅Y101": [
+        "文萃楼报告厅Y101",
+        "280",
+        "普通多媒体",
+        "free",
+        "free",
+        "free",
+        "free",
+        "free"
+      ],
+      "文萃楼报告厅Y201": [
+        "文萃楼报告厅Y201",
+        "280",
+        "free",
+        "free",
+        "free",
+        "free",
+        "free"
+      ]
+    },
+    "2023-06-01": {
+      "文萃楼B129": [
+        "文萃楼B129",
+        "42",
+        "智慧教室",
+        "free",
+        "occupied",
+        "free",
+        "occupied",
+        "free"
+      ],
+      "文萃楼B130": [
+        "文萃楼B130",
+        "134",
+        "普通多媒体",
+        "occupied",
+        "occupied",
+        "free",
+        "free",
+        "free"
+      ],
+      "文萃楼B139": [
+        "文萃楼B139",
+        "148",
+        "普通多媒体",
+        "occupied",
+        "occupied",
+        "occupied",
+        "free",
+        "occupied"
+      ],
+      "文萃楼B140": [
+        "文萃楼B140",
+        "160",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "free",
+        "occupied",
+        "free"
+      ],
+      "文萃楼B221": [
+        "文萃楼B221",
+        "48",
+        "智慧教室",
+        "occupied",
+        "occupied",
+        "free",
+        "free",
+        "occupied"
+      ],
+      "文萃楼B222": [
+        "文萃楼B222",
+        "47",
+        "智慧教室",
+        "free",
+        "free",
+        "occupied",
+        "occupied",
+        "occupied"
+      ],
+      "文萃楼B223": [
+        "文萃楼B223",
+        "48",
+        "智慧教室",
+        "free",
+        "free",
+        "free",
+        "occupied",
+        "occupied"
+      ],
+      "文萃楼B224": [
+        "文萃楼B224",
+        "47",
+        "智慧教室",
+        "occupied",
+        "occupied",
+        "occupied",
+        "occupied",
+        "free"
+      ],
+      "文萃楼B227": [
+        "文萃楼B227",
+        "80",
+        "智慧教室",
+        "occupied",
+        "occupied",
+        "free",
+        "free",
+        "free"
+      ],
+      "文萃楼B228": [
+        "文萃楼B228",
+        "134",
+        "普通多媒体",
+        "occupied",
+        "occupied",
+        "occupied",
+        "free",
+        "free"
+      ],
+      "文萃楼B233": [
+        "文萃楼B233",
+        "42",
+        "智慧教室",
+        "occupied",
+        "occupied",
+        "occupied",
+        "occupied",
+        "free"
+      ],
+      "文萃楼C501a": [
+        "文萃楼C501a",
+        "60",
+        "实验室",
+        "free",
+        "free",
+        "free",
+        "free",
+        "free"
+      ],
+      "文萃楼C501b": [
+        "文萃楼C501b",
+        "60",
+        "实验室",
+        "free",
+        "free",
+        "free",
+        "free",
+        "free"
+      ],
+      "文萃楼C501c": [
+        "文萃楼C501c",
+        "60",
+        "实验室",
+        "free",
+        "free",
+        "free",
+        "free",
+        "free"
+      ],
+      "文萃楼C501d": [
+        "文萃楼C501d",
+        "60",
+        "实验室",
+        "free",
+        "free",
+        "free",
+        "free",
+        "free"
+      ],
+      "文萃楼C505": [
+        "文萃楼C505",
+        "60",
+        "实验室",
+        "free",
+        "free",
+        "free",
+        "free",
+        "free"
+      ],
+      "文萃楼C506": [
+        "文萃楼C506",
+        "60",
+        "实验室",
+        "free",
+        "free",
+        "free",
+        "free",
+        "free"
+      ],
+      "文萃楼C605": [
+        "文萃楼C605",
+        "60",
+        "实验室",
+        "free",
+        "free",
+        "free",
+        "free",
+        "free"
+      ],
+      "文萃楼C703": [
+        "文萃楼C703",
+        "60",
+        "实验室",
+        "free",
+        "free",
+        "free",
+        "free",
+        "free"
+      ],
+      "文萃楼C705": [
+        "文萃楼C705",
+        "60",
+        "实验室",
+        "free",
+        "free",
+        "free",
+        "free",
+        "free"
+      ],
+      "文萃楼C803": [
+        "文萃楼C803",
+        "60",
+        "实验室",
+        "free",
+        "free",
+        "free",
+        "free",
+        "free"
+      ],
+      "文萃楼C805": [
+        "文萃楼C805",
+        "60",
+        "实验室",
+        "free",
+        "free",
+        "free",
+        "free",
+        "free"
+      ],
+      "文萃楼C806": [
+        "文萃楼C806",
+        "60",
+        "实验室",
+        "free",
+        "free",
+        "free",
+        "free",
+        "free"
+      ],
+      "文萃楼C903": [
+        "文萃楼C903",
+        "60",
+        "实验室",
+        "free",
+        "free",
+        "free",
+        "free",
+        "free"
+      ],
+      "文萃楼C905": [
+        "文萃楼C905",
+        "60",
+        "实验室",
+        "free",
+        "free",
+        "free",
+        "free",
+        "free"
+      ],
+      "文萃楼E207": [
+        "文萃楼E207",
+        "23",
+        "实验室",
+        "free",
+        "free",
+        "free",
+        "free",
+        "free"
+      ],
+      "文萃楼E218": [
+        "文萃楼E218",
+        "35",
+        "实验室",
+        "free",
+        "free",
+        "free",
+        "free",
+        "free"
+      ],
+      "文萃楼F101": [
+        "文萃楼F101",
+        "27",
+        "智慧教室",
+        "occupied",
+        "occupied",
+        "free",
+        "free",
+        "free"
+      ],
+      "文萃楼F102": [
+        "文萃楼F102",
+        "121",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "occupied",
+        "occupied",
+        "occupied"
+      ],
+      "文萃楼F103": [
+        "文萃楼F103",
+        "121",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "occupied",
+        "occupied",
+        "free"
+      ],
+      "文萃楼F201": [
+        "文萃楼F201",
+        "30",
+        "智慧教室",
+        "free",
+        "free",
+        "occupied",
+        "occupied",
+        "occupied"
+      ],
+      "文萃楼F202": [
+        "文萃楼F202",
+        "119",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "occupied",
+        "occupied",
+        "free"
+      ],
+      "文萃楼F203": [
+        "文萃楼F203",
+        "36",
+        "智慧教室",
+        "free",
+        "occupied",
+        "occupied",
+        "occupied",
+        "free"
+      ],
+      "文萃楼F204": [
+        "文萃楼F204",
+        "121",
+        "普通多媒体",
+        "occupied",
+        "occupied",
+        "occupied",
+        "occupied",
+        "free"
+      ],
+      "文萃楼F205": [
+        "文萃楼F205",
+        "30",
+        "智慧教室",
+        "free",
+        "occupied",
+        "occupied",
+        "occupied",
+        "free"
+      ],
+      "文萃楼F301": [
+        "文萃楼F301",
+        "80",
+        "智慧教室",
+        "free",
+        "occupied",
+        "occupied",
+        "free",
+        "free"
+      ],
+      "文萃楼F302": [
+        "文萃楼F302",
+        "121",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "occupied",
+        "free",
+        "occupied"
+      ],
+      "文萃楼F303": [
+        "文萃楼F303",
+        "36",
+        "智慧教室",
+        "occupied",
+        "occupied",
+        "occupied",
+        "occupied",
+        "free"
+      ],
+      "文萃楼F304": [
+        "文萃楼F304",
+        "121",
+        "普通多媒体",
+        "occupied",
+        "occupied",
+        "free",
+        "occupied",
+        "occupied"
+      ],
+      "文萃楼F305": [
+        "文萃楼F305",
+        "80",
+        "智慧教室",
+        "free",
+        "occupied",
+        "free",
+        "occupied",
+        "free"
+      ],
+      "文萃楼F401": [
+        "文萃楼F401",
+        "80",
+        "智慧教室",
+        "free",
+        "occupied",
+        "occupied",
+        "occupied",
+        "free"
+      ],
+      "文萃楼F402": [
+        "文萃楼F402",
+        "121",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "free",
+        "free",
+        "free"
+      ],
+      "文萃楼F403": [
+        "文萃楼F403",
+        "36",
+        "智慧教室",
+        "free",
+        "occupied",
+        "occupied",
+        "free",
+        "free"
+      ],
+      "文萃楼F404": [
+        "文萃楼F404",
+        "121",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "occupied",
+        "free",
+        "free"
+      ],
+      "文萃楼F405": [
+        "文萃楼F405",
+        "80",
+        "智慧教室",
+        "free",
+        "occupied",
+        "free",
+        "occupied",
+        "free"
+      ],
+      "文萃楼F501": [
+        "文萃楼F501",
+        "80",
+        "智慧教室",
+        "free",
+        "occupied",
+        "free",
+        "free",
+        "free"
+      ],
+      "文萃楼F502": [
+        "文萃楼F502",
+        "121",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "occupied",
+        "free",
+        "free"
+      ],
+      "文萃楼F503": [
+        "文萃楼F503",
+        "36",
+        "智慧教室",
+        "occupied",
+        "occupied",
+        "occupied",
+        "occupied",
+        "free"
+      ],
+      "文萃楼F504": [
+        "文萃楼F504",
+        "121",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "occupied",
+        "free",
+        "free"
+      ],
+      "文萃楼F505": [
+        "文萃楼F505",
+        "80",
+        "智慧教室",
+        "free",
+        "occupied",
+        "occupied",
+        "occupied",
+        "free"
+      ],
+      "文萃楼F601": [
+        "文萃楼F601",
+        "80",
+        "智慧教室",
+        "free",
+        "free",
+        "free",
+        "free",
+        "free"
+      ],
+      "文萃楼F602": [
+        "文萃楼F602",
+        "121",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "occupied",
+        "occupied",
+        "occupied"
+      ],
+      "文萃楼F603": [
+        "文萃楼F603",
+        "36",
+        "智慧教室",
+        "free",
+        "occupied",
+        "occupied",
+        "occupied",
+        "free"
+      ],
+      "文萃楼F604": [
+        "文萃楼F604",
+        "121",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "free",
+        "free",
+        "occupied"
+      ],
+      "文萃楼F605": [
+        "文萃楼F605",
+        "80",
+        "智慧教室",
+        "free",
+        "occupied",
+        "free",
+        "free",
+        "free"
+      ],
+      "文萃楼F701": [
+        "文萃楼F701",
+        "80",
+        "智慧教室",
+        "free",
+        "occupied",
+        "free",
+        "free",
+        "free"
+      ],
+      "文萃楼F702": [
+        "文萃楼F702",
+        "121",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "free",
+        "occupied",
+        "free"
+      ],
+      "文萃楼F703": [
+        "文萃楼F703",
+        "36",
+        "智慧教室",
+        "occupied",
+        "occupied",
+        "occupied",
+        "occupied",
+        "free"
+      ],
+      "文萃楼F704": [
+        "文萃楼F704",
+        "120",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "occupied",
+        "occupied",
+        "free"
+      ],
+      "文萃楼F705": [
+        "文萃楼F705",
+        "80",
+        "智慧教室",
+        "free",
+        "occupied",
+        "free",
+        "free",
+        "free"
+      ],
+      "文萃楼G124": [
+        "文萃楼G124",
+        "42",
+        "智慧教室",
+        "occupied",
+        "occupied",
+        "free",
+        "free",
+        "free"
+      ],
+      "文萃楼G125": [
+        "文萃楼G125",
+        "164",
+        "普通多媒体",
+        "occupied",
+        "occupied",
+        "occupied",
+        "occupied",
+        "free"
+      ],
+      "文萃楼G126": [
+        "文萃楼G126",
+        "156",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "occupied",
+        "occupied",
+        "free"
+      ],
+      "文萃楼G130": [
+        "文萃楼G130",
+        "148",
+        "普通多媒体",
+        "occupied",
+        "occupied",
+        "occupied",
+        "free",
+        "free"
+      ],
+      "文萃楼G221": [
+        "文萃楼G221",
+        "78",
+        "智慧教室",
+        "free",
+        "occupied",
+        "occupied",
+        "free",
+        "free"
+      ],
+      "文萃楼G222": [
+        "文萃楼G222",
+        "80",
+        "智慧教室",
+        "free",
+        "occupied",
+        "occupied",
+        "occupied",
+        "occupied"
+      ],
+      "文萃楼G223": [
+        "文萃楼G223",
+        "80",
+        "智慧教室",
+        "occupied",
+        "occupied",
+        "free",
+        "occupied",
+        "occupied"
+      ],
+      "文萃楼G224": [
+        "文萃楼G224",
+        "80",
+        "智慧教室",
+        "free",
+        "occupied",
+        "occupied",
+        "occupied",
+        "occupied"
+      ],
+      "文萃楼G227": [
+        "文萃楼G227",
+        "80",
+        "智慧教室",
+        "free",
+        "occupied",
+        "free",
+        "free",
+        "free"
+      ],
+      "文萃楼H124良乡一号机房": [
+        "文萃楼H124良乡一号机房",
+        "32",
+        "计算机机房",
+        "free",
+        "free",
+        "free",
+        "free",
+        "free"
+      ],
+      "文萃楼H125良乡二号机房": [
+        "文萃楼H125良乡二号机房",
+        "80",
+        "计算机机房",
+        "free",
+        "free",
+        "free",
+        "free",
+        "free"
+      ],
+      "文萃楼H126良乡三号机房": [
+        "文萃楼H126良乡三号机房",
+        "80",
+        "计算机机房",
+        "free",
+        "free",
+        "free",
+        "free",
+        "free"
+      ],
+      "文萃楼H130": [
+        "文萃楼H130",
+        "148",
+        "普通多媒体",
+        "occupied",
+        "occupied",
+        "occupied",
+        "free",
+        "free"
+      ],
+      "文萃楼H221良乡四号机房": [
+        "文萃楼H221良乡四号机房",
+        "96",
+        "计算机机房",
+        "free",
+        "free",
+        "free",
+        "free",
+        "free"
+      ],
+      "文萃楼H222良乡五号机房": [
+        "文萃楼H222良乡五号机房",
+        "96",
+        "计算机机房",
+        "occupied",
+        "occupied",
+        "free",
+        "free",
+        "free"
+      ],
+      "文萃楼H226良乡六号机房": [
+        "文萃楼H226良乡六号机房",
+        "143",
+        "计算机机房",
+        "free",
+        "free",
+        "free",
+        "free",
+        "free"
+      ],
+      "文萃楼H229良乡七号机房": [
+        "文萃楼H229良乡七号机房",
+        "72",
+        "计算机机房",
+        "free",
+        "free",
+        "free",
+        "free",
+        "free"
+      ],
+      "文萃楼I101": [
+        "文萃楼I101",
+        "30",
+        "智慧教室",
+        "free",
+        "occupied",
+        "free",
+        "occupied",
+        "free"
+      ],
+      "文萃楼I102": [
+        "文萃楼I102",
+        "100",
+        "普通多媒体",
+        "free",
+        "free",
+        "free",
+        "free",
+        "free"
+      ],
+      "文萃楼I103": [
+        "文萃楼I103",
+        "100",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "occupied",
+        "occupied",
+        "free"
+      ],
+      "文萃楼I201": [
+        "文萃楼I201",
+        "30",
+        "智慧教室",
+        "free",
+        "occupied",
+        "free",
+        "occupied",
+        "occupied"
+      ],
+      "文萃楼I202": [
+        "文萃楼I202",
+        "100",
+        "普通多媒体",
+        "occupied",
+        "occupied",
+        "occupied",
+        "free",
+        "occupied"
+      ],
+      "文萃楼I203": [
+        "文萃楼I203",
+        "36",
+        "智慧教室",
+        "free",
+        "free",
+        "occupied",
+        "occupied",
+        "occupied"
+      ],
+      "文萃楼I204": [
+        "文萃楼I204",
+        "100",
+        "普通多媒体",
+        "occupied",
+        "occupied",
+        "free",
+        "occupied",
+        "free"
+      ],
+      "文萃楼I205": [
+        "文萃楼I205",
+        "30",
+        "智慧教室",
+        "occupied",
+        "occupied",
+        "free",
+        "occupied",
+        "occupied"
+      ],
+      "文萃楼I301": [
+        "文萃楼I301",
+        "80",
+        "智慧教室",
+        "occupied",
+        "occupied",
+        "occupied",
+        "occupied",
+        "occupied"
+      ],
+      "文萃楼I302": [
+        "文萃楼I302",
+        "100",
+        "普通多媒体",
+        "occupied",
+        "occupied",
+        "occupied",
+        "occupied",
+        "occupied"
+      ],
+      "文萃楼I303": [
+        "文萃楼I303",
+        "36",
+        "智慧教室",
+        "occupied",
+        "occupied",
+        "free",
+        "occupied",
+        "occupied"
+      ],
+      "文萃楼I304": [
+        "文萃楼I304",
+        "100",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "occupied",
+        "free",
+        "occupied"
+      ],
+      "文萃楼I305": [
+        "文萃楼I305",
+        "80",
+        "智慧教室",
+        "free",
+        "occupied",
+        "occupied",
+        "occupied",
+        "free"
+      ],
+      "文萃楼I401": [
+        "文萃楼I401",
+        "80",
+        "智慧教室",
+        "free",
+        "occupied",
+        "free",
+        "occupied",
+        "free"
+      ],
+      "文萃楼I402": [
+        "文萃楼I402",
+        "100",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "free",
+        "occupied",
+        "free"
+      ],
+      "文萃楼I403": [
+        "文萃楼I403",
+        "36",
+        "智慧教室",
+        "occupied",
+        "occupied",
+        "occupied",
+        "occupied",
+        "free"
+      ],
+      "文萃楼I404": [
+        "文萃楼I404",
+        "100",
+        "普通多媒体",
+        "free",
+        "free",
+        "free",
+        "occupied",
+        "free"
+      ],
+      "文萃楼I405": [
+        "文萃楼I405",
+        "80",
+        "智慧教室",
+        "free",
+        "occupied",
+        "occupied",
+        "occupied",
+        "free"
+      ],
+      "文萃楼I501": [
+        "文萃楼I501",
+        "80",
+        "智慧教室",
+        "occupied",
+        "occupied",
+        "occupied",
+        "occupied",
+        "free"
+      ],
+      "文萃楼I502": [
+        "文萃楼I502",
+        "100",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "free",
+        "free",
+        "free"
+      ],
+      "文萃楼I503": [
+        "文萃楼I503",
+        "36",
+        "智慧教室",
+        "occupied",
+        "occupied",
+        "occupied",
+        "occupied",
+        "free"
+      ],
+      "文萃楼I504": [
+        "文萃楼I504",
+        "100",
+        "普通多媒体",
+        "occupied",
+        "occupied",
+        "occupied",
+        "free",
+        "free"
+      ],
+      "文萃楼I505": [
+        "文萃楼I505",
+        "80",
+        "智慧教室",
+        "free",
+        "occupied",
+        "occupied",
+        "occupied",
+        "free"
+      ],
+      "文萃楼I601": [
+        "文萃楼I601",
+        "80",
+        "智慧教室",
+        "occupied",
+        "occupied",
+        "occupied",
+        "occupied",
+        "free"
+      ],
+      "文萃楼I602": [
+        "文萃楼I602",
+        "100",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "occupied",
+        "occupied",
+        "occupied"
+      ],
+      "文萃楼I603": [
+        "文萃楼I603",
+        "36",
+        "智慧教室",
+        "occupied",
+        "occupied",
+        "occupied",
+        "occupied",
+        "free"
+      ],
+      "文萃楼I604": [
+        "文萃楼I604",
+        "100",
+        "普通多媒体",
+        "occupied",
+        "occupied",
+        "free",
+        "occupied",
+        "free"
+      ],
+      "文萃楼I605": [
+        "文萃楼I605",
+        "80",
+        "智慧教室",
+        "free",
+        "occupied",
+        "occupied",
+        "occupied",
+        "free"
+      ],
+      "文萃楼I701": [
+        "文萃楼I701",
+        "80",
+        "智慧教室",
+        "free",
+        "occupied",
+        "free",
+        "occupied",
+        "free"
+      ],
+      "文萃楼I702": [
+        "文萃楼I702",
+        "100",
+        "普通多媒体",
+        "free",
+        "free",
+        "occupied",
+        "free",
+        "free"
+      ],
+      "文萃楼I703": [
+        "文萃楼I703",
+        "36",
+        "智慧教室",
+        "free",
+        "occupied",
+        "occupied",
+        "occupied",
+        "free"
+      ],
+      "文萃楼I704": [
+        "文萃楼I704",
+        "100",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "occupied",
+        "free",
+        "occupied"
+      ],
+      "文萃楼I705": [
+        "文萃楼I705",
+        "80",
+        "智慧教室",
+        "free",
+        "occupied",
+        "free",
+        "free",
+        "free"
+      ],
+      "文萃楼J909": [
+        "文萃楼J909",
+        "0",
+        "实验室",
+        "free",
+        "free",
+        "free",
+        "free",
+        "free"
+      ],
+      "文萃楼J911": [
+        "文萃楼J911",
+        "41",
+        "实验室",
+        "free",
+        "occupied",
+        "free",
+        "free",
+        "free"
+      ],
+      "文萃楼J916": [
+        "文萃楼J916",
+        "40",
+        "实验室",
+        "free",
+        "free",
+        "free",
+        "free",
+        "free"
+      ],
+      "文萃楼L106": [
+        "文萃楼L106",
+        "30",
+        "实验室",
+        "free",
+        "free",
+        "free",
+        "free",
+        "free"
+      ],
+      "文萃楼L614": [
+        "文萃楼L614",
+        "32",
+        "实验室",
+        "free",
+        "free",
+        "occupied",
+        "occupied",
+        "free"
+      ],
+      "文萃楼L812": [
+        "文萃楼L812",
+        "32",
+        "实验室",
+        "free",
+        "free",
+        "free",
+        "free",
+        "free"
+      ],
+      "文萃楼M124": [
+        "文萃楼M124",
+        "42",
+        "智慧教室",
+        "free",
+        "occupied",
+        "free",
+        "occupied",
+        "free"
+      ],
+      "文萃楼M125": [
+        "文萃楼M125",
+        "134",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "free",
+        "occupied",
+        "occupied"
+      ],
+      "文萃楼M134": [
+        "文萃楼M134",
+        "149",
+        "普通多媒体",
+        "occupied",
+        "occupied",
+        "free",
+        "occupied",
+        "free"
+      ],
+      "文萃楼M135": [
+        "文萃楼M135",
+        "160",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "free",
+        "free",
+        "free"
+      ],
+      "文萃楼M221": [
+        "文萃楼M221",
+        "80",
+        "智慧教室",
+        "occupied",
+        "occupied",
+        "free",
+        "free",
+        "free"
+      ],
+      "文萃楼M222": [
+        "文萃楼M222",
+        "80",
+        "智慧教室",
+        "occupied",
+        "occupied",
+        "occupied",
+        "occupied",
+        "free"
+      ],
+      "文萃楼M223": [
+        "文萃楼M223",
+        "80",
+        "智慧教室",
+        "free",
+        "free",
+        "occupied",
+        "occupied",
+        "occupied"
+      ],
+      "文萃楼M224": [
+        "文萃楼M224",
+        "80",
+        "智慧教室",
+        "free",
+        "occupied",
+        "occupied",
+        "free",
+        "free"
+      ],
+      "文萃楼M227": [
+        "文萃楼M227",
+        "80",
+        "智慧教室",
+        "occupied",
+        "occupied",
+        "occupied",
+        "free",
+        "free"
+      ],
+      "文萃楼M228": [
+        "文萃楼M228",
+        "134",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "occupied",
+        "occupied",
+        "free"
+      ],
+      "文萃楼M233": [
+        "文萃楼M233",
+        "42",
+        "智慧教室",
+        "occupied",
+        "occupied",
+        "occupied",
+        "free",
+        "occupied"
+      ],
+      "文萃楼报告厅Y101": [
+        "文萃楼报告厅Y101",
+        "280",
+        "普通多媒体",
+        "free",
+        "free",
+        "free",
+        "free",
+        "free"
+      ],
+      "文萃楼报告厅Y201": [
+        "文萃楼报告厅Y201",
+        "280",
+        "free",
+        "free",
+        "free",
+        "free",
+        "free"
+      ]
+    }
+  }
+}

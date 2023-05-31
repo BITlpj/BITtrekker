@@ -5,8 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ffc3f77e-75b8-4c52-897d-d1090accae82" name="更改" comment="基础版本（html,img,json,网络爬虫，数据库实现）">
+      <change afterPath="$PROJECT_DIR$/my_web/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_web/templates/edit_classroom'.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_web/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_web/templates/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_web/templates/map.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_web/templates/recycle.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_web/templates/select_classroom.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_web/web_data_test/migrations/0002_classroom_labelclassroom_labeltable_occupytable_post_and_more.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_web/web_data_test/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_web/文萃楼.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_web/综合教学楼A.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_web/综合教学楼B.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/9b372d0f-d227-4117-9386-4507db11c271.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/9b372d0f-d227-4117-9386-4507db11c271.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pachong/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/pachong/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_web/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/my_web/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_web/html_control/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_web/html_control/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_web/html_control/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_web/html_control/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_web/my_web/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_web/my_web/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_web/my_web/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_web/my_web/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_web/web_data_test/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_web/web_data_test/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_web/web_data_test/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_web/web_data_test/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_web/web_data_test/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_web/web_data_test/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pachong/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_web/web_data_test/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pachong/文萃楼.json" beforeDir="false" afterPath="$PROJECT_DIR$/my_web/web_data_test/文萃楼.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pachong/理科教学楼.json" beforeDir="false" afterPath="$PROJECT_DIR$/my_web/web_data_test/理科教学楼.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pachong/综合教学楼A.json" beforeDir="false" afterPath="$PROJECT_DIR$/my_web/web_data_test/综合教学楼A.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pachong/综合教学楼B.json" beforeDir="false" afterPath="$PROJECT_DIR$/my_web/web_data_test/综合教学楼B.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +81,8 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\python web\my_web\web_data_test" />
+      <recent name="D:\python web\my_web\web_data_test\migrations" />
       <recent name="D:\python web\my_web\html_control" />
       <recent name="D:\python web\my_web\static" />
     </key>
@@ -79,7 +106,11 @@
       <workItem from="1683435019811" duration="786000" />
       <workItem from="1684388483297" duration="1048000" />
       <workItem from="1684395535994" duration="20956000" />
-      <workItem from="1684428931565" duration="1420000" />
+      <workItem from="1684428931565" duration="1681000" />
+      <workItem from="1684726182949" duration="210000" />
+      <workItem from="1685499338607" duration="12193000" />
+      <workItem from="1685514705998" duration="537000" />
+      <workItem from="1685515389147" duration="8471000" />
     </task>
     <task id="LOCAL-00001" summary="基础版本（html,img,json实现）">
       <created>1683263871136</created>
@@ -95,7 +126,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684428525026</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="基础版本（html,img,json,网络爬虫，数据库实现）">
+      <created>1684430611197</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1684430611197</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,7 +158,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/python_web$main.coverage" NAME="main 覆盖结果" MODIFIED="1683190742752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/test_py$test.coverage" NAME="test 覆盖结果" MODIFIED="1684427900895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pachong" />
+    <SUITE FILE_PATH="coverage/test_py$test.coverage" NAME="test 覆盖结果" MODIFIED="1685522398532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_web/web_data_test" />
     <SUITE FILE_PATH="coverage/manage_py$test.coverage" NAME="test 覆盖结果" MODIFIED="1684395406366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pachong" />
     <SUITE FILE_PATH="coverage/manage_py$manage.coverage" NAME="manage 覆盖结果" MODIFIED="1684388507927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_web" />
   </component>

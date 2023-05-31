@@ -1,0 +1,828 @@
+{
+  "10": {
+    "2023-05-31": {
+      "理教楼101": [
+        "理教楼101",
+        "280",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "occupied",
+        "occupied",
+        "occupied"
+      ],
+      "理教楼102": [
+        "理教楼102",
+        "280",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "free",
+        "occupied",
+        "free"
+      ],
+      "理教楼103": [
+        "理教楼103",
+        "329",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "occupied",
+        "occupied",
+        "free"
+      ],
+      "理教楼104": [
+        "理教楼104",
+        "184",
+        "普通多媒体",
+        "free",
+        "free",
+        "free",
+        "occupied",
+        "free"
+      ],
+      "理教楼105": [
+        "理教楼105",
+        "157",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "occupied",
+        "occupied",
+        "free"
+      ],
+      "理教楼106": [
+        "理教楼106",
+        "157",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "free",
+        "free",
+        "free"
+      ],
+      "理教楼107": [
+        "理教楼107",
+        "157",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "occupied",
+        "occupied",
+        "occupied"
+      ],
+      "理教楼108": [
+        "理教楼108",
+        "98",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "occupied",
+        "occupied",
+        "free"
+      ],
+      "理教楼109": [
+        "理教楼109",
+        "98",
+        "普通多媒体",
+        "occupied",
+        "occupied",
+        "occupied",
+        "occupied",
+        "free"
+      ],
+      "理教楼201": [
+        "理教楼201",
+        "204",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "occupied",
+        "occupied",
+        "free"
+      ],
+      "理教楼202": [
+        "理教楼202",
+        "280",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "free",
+        "free",
+        "free"
+      ],
+      "理教楼203": [
+        "理教楼203",
+        "280",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "free",
+        "free",
+        "free"
+      ],
+      "理教楼204": [
+        "理教楼204",
+        "329",
+        "普通多媒体",
+        "occupied",
+        "occupied",
+        "occupied",
+        "occupied",
+        "free"
+      ],
+      "理教楼205": [
+        "理教楼205",
+        "184",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "free",
+        "free",
+        "occupied"
+      ],
+      "理教楼206": [
+        "理教楼206",
+        "157",
+        "普通多媒体",
+        "occupied",
+        "occupied",
+        "free",
+        "free",
+        "occupied"
+      ],
+      "理教楼207": [
+        "理教楼207",
+        "157",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "free",
+        "free",
+        "free"
+      ],
+      "理教楼302": [
+        "理教楼302",
+        "280",
+        "普通多媒体",
+        "free",
+        "free",
+        "occupied",
+        "free",
+        "free"
+      ],
+      "理教楼303": [
+        "理教楼303",
+        "280",
+        "普通多媒体",
+        "occupied",
+        "occupied",
+        "occupied",
+        "occupied",
+        "free"
+      ],
+      "理教楼304": [
+        "理教楼304",
+        "329",
+        "普通多媒体",
+        "occupied",
+        "occupied",
+        "occupied",
+        "occupied",
+        "free"
+      ],
+      "理教楼305": [
+        "理教楼305",
+        "184",
+        "普通多媒体",
+        "occupied",
+        "occupied",
+        "occupied",
+        "free",
+        "free"
+      ],
+      "理教楼306": [
+        "理教楼306",
+        "157",
+        "普通多媒体",
+        "occupied",
+        "occupied",
+        "occupied",
+        "free",
+        "occupied"
+      ],
+      "理教楼307": [
+        "理教楼307",
+        "157",
+        "普通多媒体",
+        "free",
+        "free",
+        "occupied",
+        "occupied",
+        "free"
+      ],
+      "理教楼308": [
+        "理教楼308",
+        "157",
+        "普通多媒体",
+        "free",
+        "free",
+        "occupied",
+        "free",
+        "free"
+      ],
+      "理教楼309": [
+        "理教楼309",
+        "98",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "occupied",
+        "occupied",
+        "free"
+      ],
+      "理教楼310": [
+        "理教楼310",
+        "98",
+        "普通多媒体",
+        "occupied",
+        "occupied",
+        "occupied",
+        "occupied",
+        "free"
+      ],
+      "理教楼401": [
+        "理教楼401",
+        "280",
+        "普通多媒体",
+        "occupied",
+        "occupied",
+        "free",
+        "occupied",
+        "free"
+      ],
+      "理教楼402": [
+        "理教楼402",
+        "262",
+        "普通多媒体",
+        "free",
+        "free",
+        "occupied",
+        "free",
+        "free"
+      ],
+      "理教楼403": [
+        "理教楼403",
+        "280",
+        "普通多媒体",
+        "occupied",
+        "occupied",
+        "occupied",
+        "occupied",
+        "free"
+      ],
+      "理教楼404": [
+        "理教楼404",
+        "184",
+        "普通多媒体",
+        "occupied",
+        "free",
+        "occupied",
+        "occupied",
+        "occupied"
+      ],
+      "理教楼405": [
+        "理教楼405",
+        "157",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "occupied",
+        "free",
+        "free"
+      ],
+      "理教楼406": [
+        "理教楼406",
+        "157",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "free",
+        "occupied",
+        "free"
+      ],
+      "理教楼407": [
+        "理教楼407",
+        "157",
+        "普通多媒体",
+        "occupied",
+        "occupied",
+        "occupied",
+        "free",
+        "free"
+      ],
+      "理教楼408": [
+        "理教楼408",
+        "98",
+        "普通多媒体",
+        "occupied",
+        "occupied",
+        "occupied",
+        "occupied",
+        "free"
+      ],
+      "理教楼409": [
+        "理教楼409",
+        "98",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "free",
+        "free",
+        "occupied"
+      ],
+      "理教楼501": [
+        "理教楼501",
+        "142",
+        "实验室",
+        "free",
+        "free",
+        "free",
+        "free",
+        "free"
+      ],
+      "理教楼502": [
+        "理教楼502",
+        "142",
+        "实验室",
+        "free",
+        "free",
+        "free",
+        "free",
+        "free"
+      ],
+      "理教楼503": [
+        "理教楼503",
+        "142",
+        "实验室",
+        "free",
+        "free",
+        "free",
+        "free",
+        "free"
+      ],
+      "理教楼504": [
+        "理教楼504",
+        "142",
+        "实验室",
+        "free",
+        "free",
+        "free",
+        "free",
+        "free"
+      ],
+      "理教楼505": [
+        "理教楼505",
+        "98",
+        "普通多媒体",
+        "free",
+        "free",
+        "free",
+        "occupied",
+        "free"
+      ],
+      "理教楼506": [
+        "理教楼506",
+        "98",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "free",
+        "free",
+        "free"
+      ]
+    },
+    "2023-06-01": {
+      "理教楼101": [
+        "理教楼101",
+        "280",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "occupied",
+        "occupied",
+        "free"
+      ],
+      "理教楼102": [
+        "理教楼102",
+        "280",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "occupied",
+        "occupied",
+        "free"
+      ],
+      "理教楼103": [
+        "理教楼103",
+        "329",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "occupied",
+        "occupied",
+        "free"
+      ],
+      "理教楼104": [
+        "理教楼104",
+        "184",
+        "普通多媒体",
+        "occupied",
+        "occupied",
+        "occupied",
+        "occupied",
+        "free"
+      ],
+      "理教楼105": [
+        "理教楼105",
+        "157",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "occupied",
+        "occupied",
+        "free"
+      ],
+      "理教楼106": [
+        "理教楼106",
+        "157",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "occupied",
+        "occupied",
+        "free"
+      ],
+      "理教楼107": [
+        "理教楼107",
+        "157",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "occupied",
+        "occupied",
+        "occupied"
+      ],
+      "理教楼108": [
+        "理教楼108",
+        "98",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "occupied",
+        "occupied",
+        "free"
+      ],
+      "理教楼109": [
+        "理教楼109",
+        "98",
+        "普通多媒体",
+        "occupied",
+        "occupied",
+        "occupied",
+        "occupied",
+        "free"
+      ],
+      "理教楼201": [
+        "理教楼201",
+        "204",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "occupied",
+        "occupied",
+        "free"
+      ],
+      "理教楼202": [
+        "理教楼202",
+        "280",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "free",
+        "free",
+        "free"
+      ],
+      "理教楼203": [
+        "理教楼203",
+        "280",
+        "普通多媒体",
+        "occupied",
+        "occupied",
+        "occupied",
+        "free",
+        "free"
+      ],
+      "理教楼204": [
+        "理教楼204",
+        "329",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "free",
+        "free",
+        "free"
+      ],
+      "理教楼205": [
+        "理教楼205",
+        "184",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "free",
+        "occupied",
+        "occupied"
+      ],
+      "理教楼206": [
+        "理教楼206",
+        "157",
+        "普通多媒体",
+        "occupied",
+        "occupied",
+        "free",
+        "free",
+        "occupied"
+      ],
+      "理教楼207": [
+        "理教楼207",
+        "157",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "occupied",
+        "occupied",
+        "occupied"
+      ],
+      "理教楼208": [
+        "理教楼208",
+        "157",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "occupied",
+        "free",
+        "free"
+      ],
+      "理教楼209": [
+        "理教楼209",
+        "98",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "occupied",
+        "occupied",
+        "free"
+      ],
+      "理教楼210": [
+        "理教楼210",
+        "98",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "occupied",
+        "free",
+        "occupied"
+      ],
+      "理教楼301": [
+        "理教楼301",
+        "280",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "occupied",
+        "free",
+        "free"
+      ],
+      "理教楼302": [
+        "理教楼302",
+        "280",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "occupied",
+        "occupied",
+        "occupied"
+      ],
+      "理教楼303": [
+        "理教楼303",
+        "280",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "free",
+        "free",
+        "occupied"
+      ],
+      "理教楼304": [
+        "理教楼304",
+        "329",
+        "普通多媒体",
+        "free",
+        "free",
+        "occupied",
+        "occupied",
+        "occupied"
+      ],
+      "理教楼305": [
+        "理教楼305",
+        "184",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "occupied",
+        "occupied",
+        "free"
+      ],
+      "理教楼306": [
+        "理教楼306",
+        "157",
+        "普通多媒体",
+        "occupied",
+        "occupied",
+        "occupied",
+        "occupied",
+        "occupied"
+      ],
+      "理教楼307": [
+        "理教楼307",
+        "157",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "occupied",
+        "occupied",
+        "free"
+      ],
+      "理教楼308": [
+        "理教楼308",
+        "157",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "occupied",
+        "occupied",
+        "free"
+      ],
+      "理教楼309": [
+        "理教楼309",
+        "98",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "occupied",
+        "occupied",
+        "free"
+      ],
+      "理教楼402": [
+        "理教楼402",
+        "262",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "occupied",
+        "free",
+        "free"
+      ],
+      "理教楼403": [
+        "理教楼403",
+        "280",
+        "普通多媒体",
+        "free",
+        "free",
+        "free",
+        "occupied",
+        "free"
+      ],
+      "理教楼404": [
+        "理教楼404",
+        "184",
+        "普通多媒体",
+        "occupied",
+        "occupied",
+        "occupied",
+        "occupied",
+        "occupied"
+      ],
+      "理教楼405": [
+        "理教楼405",
+        "157",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "occupied",
+        "occupied",
+        "free"
+      ],
+      "理教楼406": [
+        "理教楼406",
+        "157",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "occupied",
+        "occupied",
+        "occupied"
+      ],
+      "理教楼407": [
+        "理教楼407",
+        "157",
+        "普通多媒体",
+        "occupied",
+        "occupied",
+        "occupied",
+        "occupied",
+        "free"
+      ],
+      "理教楼408": [
+        "理教楼408",
+        "98",
+        "普通多媒体",
+        "occupied",
+        "occupied",
+        "free",
+        "occupied",
+        "free"
+      ],
+      "理教楼409": [
+        "理教楼409",
+        "98",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "occupied",
+        "free",
+        "occupied"
+      ],
+      "理教楼501": [
+        "理教楼501",
+        "142",
+        "实验室",
+        "free",
+        "free",
+        "free",
+        "free",
+        "free"
+      ],
+      "理教楼502": [
+        "理教楼502",
+        "142",
+        "实验室",
+        "free",
+        "free",
+        "free",
+        "free",
+        "free"
+      ],
+      "理教楼503": [
+        "理教楼503",
+        "142",
+        "实验室",
+        "free",
+        "free",
+        "free",
+        "free",
+        "free"
+      ],
+      "理教楼504": [
+        "理教楼504",
+        "142",
+        "实验室",
+        "free",
+        "free",
+        "free",
+        "free",
+        "free"
+      ],
+      "理教楼505": [
+        "理教楼505",
+        "98",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "occupied",
+        "free",
+        "free"
+      ],
+      "理教楼506": [
+        "理教楼506",
+        "98",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "free",
+        "free",
+        "free"
+      ]
+    }
+  }
+}

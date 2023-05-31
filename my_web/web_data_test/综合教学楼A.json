@@ -1,0 +1,568 @@
+{
+  "3": {
+    "2023-05-31": {
+      "综教A101": [
+        "综教A101",
+        "150",
+        "智慧教室",
+        "free",
+        "free",
+        "free",
+        "occupied",
+        "free"
+      ],
+      "综教A102": [
+        "综教A102",
+        "172",
+        "智慧教室",
+        "free",
+        "free",
+        "occupied",
+        "occupied",
+        "free"
+      ],
+      "综教A103": [
+        "综教A103",
+        "172",
+        "智慧教室",
+        "free",
+        "free",
+        "occupied",
+        "occupied",
+        "free"
+      ],
+      "综教A104": [
+        "综教A104",
+        "60",
+        "智慧教室",
+        "free",
+        "occupied",
+        "free",
+        "occupied",
+        "occupied"
+      ],
+      "综教A105": [
+        "综教A105",
+        "286",
+        "普通多媒体",
+        "free",
+        "free",
+        "free",
+        "free",
+        "free"
+      ],
+      "综教A106": [
+        "综教A106",
+        "286",
+        "普通多媒体",
+        "free",
+        "free",
+        "occupied",
+        "occupied",
+        "free"
+      ],
+      "综教A201": [
+        "综教A201",
+        "161",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "free",
+        "free",
+        "free"
+      ],
+      "综教A202": [
+        "综教A202",
+        "181",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "free",
+        "occupied",
+        "occupied"
+      ],
+      "综教A203": [
+        "综教A203",
+        "182",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "occupied",
+        "free",
+        "free"
+      ],
+      "综教A204": [
+        "综教A204",
+        "161",
+        "普通多媒体",
+        "occupied",
+        "occupied",
+        "occupied",
+        "occupied",
+        "free"
+      ],
+      "综教A205": [
+        "综教A205",
+        "288",
+        "普通多媒体",
+        "free",
+        "free",
+        "free",
+        "free",
+        "free"
+      ],
+      "综教A206": [
+        "综教A206",
+        "288",
+        "普通多媒体",
+        "occupied",
+        "occupied",
+        "free",
+        "free",
+        "free"
+      ],
+      "综教A301": [
+        "综教A301",
+        "161",
+        "普通多媒体",
+        "free",
+        "free",
+        "free",
+        "free",
+        "free"
+      ],
+      "综教A302": [
+        "综教A302",
+        "182",
+        "普通多媒体",
+        "free",
+        "free",
+        "occupied",
+        "occupied",
+        "occupied"
+      ],
+      "综教A303": [
+        "综教A303",
+        "182",
+        "普通多媒体",
+        "free",
+        "free",
+        "free",
+        "free",
+        "free"
+      ],
+      "综教A304": [
+        "综教A304",
+        "161",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "free",
+        "free",
+        "free"
+      ],
+      "综教A305": [
+        "综教A305",
+        "288",
+        "普通多媒体",
+        "free",
+        "free",
+        "free",
+        "free",
+        "free"
+      ],
+      "综教A306": [
+        "综教A306",
+        "288",
+        "普通多媒体",
+        "free",
+        "free",
+        "free",
+        "occupied",
+        "free"
+      ],
+      "综教A401": [
+        "综教A401",
+        "161",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "free",
+        "free",
+        "free"
+      ],
+      "综教A402": [
+        "综教A402",
+        "182",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "free",
+        "free",
+        "free"
+      ],
+      "综教A403": [
+        "综教A403",
+        "182",
+        "普通多媒体",
+        "free",
+        "free",
+        "free",
+        "free",
+        "free"
+      ],
+      "综教A404": [
+        "综教A404",
+        "161",
+        "普通多媒体",
+        "free",
+        "free",
+        "free",
+        "occupied",
+        "free"
+      ],
+      "综教A405": [
+        "综教A405",
+        "288",
+        "普通多媒体",
+        "free",
+        "free",
+        "free",
+        "occupied",
+        "free"
+      ],
+      "综教A406": [
+        "综教A406",
+        "288",
+        "普通多媒体",
+        "free",
+        "free",
+        "free",
+        "free",
+        "free"
+      ],
+      "综教A501": [
+        "综教A501",
+        "161",
+        "普通多媒体",
+        "free",
+        "free",
+        "free",
+        "free",
+        "free"
+      ],
+      "综教A502": [
+        "综教A502",
+        "182",
+        "普通多媒体",
+        "occupied",
+        "occupied",
+        "free",
+        "free",
+        "free"
+      ],
+      "综教A503": [
+        "综教A503",
+        "182",
+        "普通多媒体",
+        "free",
+        "free",
+        "free",
+        "free",
+        "free"
+      ],
+      "综教A504": [
+        "综教A504",
+        "161",
+        "普通多媒体",
+        "occupied",
+        "occupied",
+        "free",
+        "occupied",
+        "free"
+      ]
+    },
+    "2023-06-01": {
+      "综教A101": [
+        "综教A101",
+        "150",
+        "智慧教室",
+        "free",
+        "occupied",
+        "free",
+        "occupied",
+        "occupied"
+      ],
+      "综教A102": [
+        "综教A102",
+        "172",
+        "智慧教室",
+        "occupied",
+        "free",
+        "free",
+        "occupied",
+        "occupied"
+      ],
+      "综教A103": [
+        "综教A103",
+        "172",
+        "智慧教室",
+        "occupied",
+        "occupied",
+        "free",
+        "occupied",
+        "free"
+      ],
+      "综教A104": [
+        "综教A104",
+        "60",
+        "智慧教室",
+        "free",
+        "occupied",
+        "occupied",
+        "occupied",
+        "free"
+      ],
+      "综教A105": [
+        "综教A105",
+        "286",
+        "普通多媒体",
+        "free",
+        "free",
+        "free",
+        "free",
+        "free"
+      ],
+      "综教A106": [
+        "综教A106",
+        "286",
+        "普通多媒体",
+        "free",
+        "free",
+        "free",
+        "free",
+        "free"
+      ],
+      "综教A201": [
+        "综教A201",
+        "161",
+        "普通多媒体",
+        "occupied",
+        "free",
+        "free",
+        "free",
+        "free"
+      ],
+      "综教A202": [
+        "综教A202",
+        "181",
+        "普通多媒体",
+        "free",
+        "free",
+        "occupied",
+        "occupied",
+        "free"
+      ],
+      "综教A203": [
+        "综教A203",
+        "182",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "free",
+        "free",
+        "free"
+      ],
+      "综教A204": [
+        "综教A204",
+        "161",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "occupied",
+        "occupied",
+        "occupied"
+      ],
+      "综教A205": [
+        "综教A205",
+        "288",
+        "普通多媒体",
+        "occupied",
+        "free",
+        "free",
+        "occupied",
+        "free"
+      ],
+      "综教A206": [
+        "综教A206",
+        "288",
+        "普通多媒体",
+        "free",
+        "free",
+        "free",
+        "free",
+        "free"
+      ],
+      "综教A301": [
+        "综教A301",
+        "161",
+        "普通多媒体",
+        "free",
+        "free",
+        "occupied",
+        "free",
+        "occupied"
+      ],
+      "综教A302": [
+        "综教A302",
+        "182",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "free",
+        "free",
+        "free"
+      ],
+      "综教A303": [
+        "综教A303",
+        "182",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "free",
+        "free",
+        "free"
+      ],
+      "综教A304": [
+        "综教A304",
+        "161",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "free",
+        "free",
+        "free"
+      ],
+      "综教A305": [
+        "综教A305",
+        "288",
+        "普通多媒体",
+        "occupied",
+        "occupied",
+        "free",
+        "free",
+        "free"
+      ],
+      "综教A306": [
+        "综教A306",
+        "288",
+        "普通多媒体",
+        "free",
+        "free",
+        "free",
+        "free",
+        "free"
+      ],
+      "综教A401": [
+        "综教A401",
+        "161",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "occupied",
+        "occupied",
+        "free"
+      ],
+      "综教A402": [
+        "综教A402",
+        "182",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "occupied",
+        "occupied",
+        "free"
+      ],
+      "综教A403": [
+        "综教A403",
+        "182",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "free",
+        "free",
+        "free"
+      ],
+      "综教A404": [
+        "综教A404",
+        "161",
+        "普通多媒体",
+        "free",
+        "free",
+        "free",
+        "free",
+        "free"
+      ],
+      "综教A405": [
+        "综教A405",
+        "288",
+        "普通多媒体",
+        "free",
+        "free",
+        "free",
+        "free",
+        "free"
+      ],
+      "综教A406": [
+        "综教A406",
+        "288",
+        "普通多媒体",
+        "free",
+        "free",
+        "free",
+        "free",
+        "free"
+      ],
+      "综教A501": [
+        "综教A501",
+        "161",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "free",
+        "occupied",
+        "free"
+      ],
+      "综教A502": [
+        "综教A502",
+        "182",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "occupied",
+        "occupied",
+        "free"
+      ],
+      "综教A503": [
+        "综教A503",
+        "182",
+        "普通多媒体",
+        "occupied",
+        "occupied",
+        "occupied",
+        "occupied",
+        "free"
+      ],
+      "综教A504": [
+        "综教A504",
+        "161",
+        "普通多媒体",
+        "free",
+        "occupied",
+        "free",
+        "occupied",
+        "free"
+      ]
+    }
+  }
+}

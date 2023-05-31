@@ -7,3 +7,20 @@ def test(request):
 
 def html(request):
     return render(request,"check.html")
+def main_index(request):
+    return render(request,"main.html")
+
+def map_index(request):
+    return render(request,"map.html")
+
+def select_classroom_index(request):
+    return render(request, "select_classroom.html")
+
+def login_index(request):
+    return render(request, "login.html")
+
+def edit_classroom_index(request):
+    return render(request, "edit_classroom.html")
+
+def recycle_index(request):
+    return render(request, "recycle.html")
