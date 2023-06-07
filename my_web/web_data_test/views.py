@@ -38,16 +38,18 @@ class QueryStudent(APIView):
 '''
 
 def get_main_data(request):
-    req = request.body.decode("utf-8")
+    #time.sleep(5)
+    req = request.body
     ans = json.loads(req)
     class_info= ask_class_info(ans)
     return JsonResponse(class_info,safe=False)
 def load_data(request):
     clear_all_database()
     req = request.body.decode("GBK")
-    json_data=json.loads(req)
-    if json_data['pachong']==True:
-        pachong()
+    if req!="":
+        json_data=json.loads(req)
+        if json_data['pachong']==True:
+            pachong()
     for i in os.listdir("D:\python web\my_web\web_data_test"):
         if i.split('.')[-1]=="json":
             update_data(os.path.join("D:\python web\my_web\web_data_test",i))
@@ -60,8 +62,14 @@ def get_label_liist(request):
 def delete_classroom(request):
     req = request.body.decode("utf-8")
     ans = json.loads(req)
-    cover_classroom(ans["classroom_number",1])
+    cover_classroom(ans["classroom_number"],1)
+    return  HttpResponse(True)
 
+def recovery_classroom(request):
+    req = request.body.decode("utf-8")
+    ans = json.loads(req)
+    cover_classroom(ans["classroom_number"],0)
+    return  HttpResponse(True)
 def login(request):
 
     return HttpResponse(True)
@@ -72,8 +80,23 @@ def edit_classrooms(request):
     ans=edit_classroom(ans)
     return  HttpResponse(ans)
 
+def adds_label(request):
+    req = request.body.decode("utf-8")
+    ans = json.loads(req)
+    ans = add_label(ans)
+    return HttpResponse(True)
+
+def delete_label(request):
+    req = request.body.decode("utf-8")
+    ans = json.loads(req)
+    ans = del_label(ans)
+    return HttpResponse(True)
+
+
 def get_recycle_data(request):
     req = request.body.decode("utf-8")
     ans = json.loads(req)
-    ans = ask_class_info(ans)
-    return JsonResponse(ans)
+    print(ans)
+    ans = ask_class_info(ans,1)
+    print(ans)
+    return JsonResponse(ans,safe=False)

@@ -13,6 +13,7 @@ class Classroom(models.Model):
     id = models.AutoField(primary_key=True)
     classroom_name = models.CharField(max_length = 128)
     building = models.CharField(max_length = 128)
+#    recommand= models.IntegerField()
     classroom_covered = models.BooleanField()
 
 class Occupytable(models.Model):

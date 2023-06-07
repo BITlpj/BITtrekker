@@ -1,7 +1,10 @@
 import json
-from .models import *
+import time
 
+from .models import *
+import  random
 building = {"2":"文萃楼", "3":"综合教学楼A", "7":"综合教学楼B", "10":"理科教学楼"}
+lable   =['插座多','离水房近','离女厕近','离男厕近','空调可调节']
 
 # 注意，label_id = label + 1
 
@@ -15,11 +18,27 @@ def cover_classroom(id, covered):
     if len(classroom) != 1:
         return 1
     Classroom.objects.filter(id=id).update(classroom_covered=covered)
+    # Occupytable.objects.filter(classroom_id=id).update(covered=covered)
     if covered:
-        print("Covered classroom:", classroom.name)
+        print("Covered classroom:", classroom[0].classroom_name)
     else:
-        print("Uncovered classroom:", classroom.name)
-    return 0    
+        print("Uncovered classroom:", classroom[0].classroom_name)
+    return 0
+def generate_rand_feature():
+    LabelClassroom.objects.all().delete()
+
+    all_classroom = Classroom.objects.all()
+    classrooms_id = [i.id for i in all_classroom]
+
+    all_label = Labeltable.objects.all()
+    labels_id = [i.id for i in all_label]
+    for classroom_id in classrooms_id:
+        for label_id in labels_id:
+            if random.randint(1, 10) == 1:
+                LabelClassroom.objects.create(
+                    classroom_id=classroom_id,
+                    label_id=label_id
+                )
 
 '''
 编辑教室信息 
@@ -31,6 +50,7 @@ def edit_classroom(input):
     building = input['affiliated_teaching_building']
     classroom_id = input['classroom_id']
     classroom_name = input['classroom_name']
+    print(input['free_time'])
     date = input['free_time']['date']
     tmp_times = input['free_time']['time']
     tmp_labels = input['classroom_features']
@@ -119,14 +139,14 @@ def ask_label_table():
 '''
 查询某个教室的信息 返回dict符合“获取详情页信息”要求
 '''
+def ask_class_info(input, covered=0):
 
-
-def ask_class_info(input):
+    time.sleep(1)
     date = input['date']
 
     tmp_times = input['period']
     times = []
-    if times:
+    if tmp_times:
         for i in range(5):
             if tmp_times[i]:
                 times.append(i)
@@ -134,19 +154,23 @@ def ask_class_info(input):
         times = [0, 1, 2, 3, 4]
 
     buildings = input['teaching_building']
+    if not buildings:
+        buildings = ["文萃楼", "综合教学楼A", "综合教学楼B", "理科教学楼"]
 
     tmp_labels = input['classroom_feature']
     labels = []
-    num_label = len(Labeltable.objects.all())
-    for i in range(num_label):
-        if not tmp_labels:
-            labels.append(i + 1)
-        elif tmp_labels[i]:
-            labels.append(i + 1)
+    labeltable = Labeltable.objects.all()
+    num_label = len(labeltable)
+    if tmp_labels:
+        for i in range(num_label):
+            if tmp_labels[i]:
+                labels.append(labeltable[i].id)
 
     classrooms_valid = Classroom.objects.filter(building__in=buildings,
-                                                classroom_covered=0)
+                                                classroom_covered=covered)
     classrooms_valid_id = [classroom.id for classroom in classrooms_valid]
+    print(classrooms_valid_id)
+
 
     no_occupy_table = Occupytable.objects.filter(date=date,
                                                  time__in=times,
@@ -155,8 +179,15 @@ def ask_class_info(input):
                                                  available=1
                                                  )
     output = []
+    chosen_classroom = []
+
+
+
     for i in no_occupy_table:
         classroom_id = i.classroom_id
+        if classroom_id in chosen_classroom:
+            continue
+        chosen_classroom.append(classroom_id)
         classroom = Classroom.objects.get(id=classroom_id)
 
         # 检查是否教室是否具有指定标签，如果是全0的话就直接放行
@@ -167,7 +198,16 @@ def ask_class_info(input):
         #         sign = 1
         #         break
         if labels and not LabelClassroom.objects.filter(classroom_id=classroom_id,
-                                                        label_id__in=labels):
+                                         label_id__in=labels):
+            continue
+
+        sign = 1
+        for label in labels:
+            if not LabelClassroom.objects.filter(classroom_id=classroom_id,
+                                                 label_id=label):
+                sign = 0
+                break
+        if not sign:
             continue
 
         # 装填
@@ -178,27 +218,24 @@ def ask_class_info(input):
         tmp_times = []
         for j in range(0, 5):
             if Occupytable.objects.filter(classroom_id=classroom_id,
-                                          date=date,
-                                          time=j,
-                                          available=1,
-                                          covered=0):
+                                             date=date,
+                                             time=j,
+                                             available=1,
+                                             covered=0):
                 tmp_times.append(1)
             else:
                 tmp_times.append(0)
-        tmp['free_time'] = {'date': date, 'detailed_time_period': tmp_times}
+        tmp['free_time'] = {'date':date, 'detailed_time_period':tmp_times}
 
-        labeltable = Labeltable.objects.all()
+
         tmp['classroom_features'] = [0] * len(labeltable)
-        for label in labeltable:
+        for j, label in enumerate(labeltable):
             if LabelClassroom.objects.filter(label_id=label.id,
-                                             classroom_id=classroom_id):
-                tmp['classroom_features'][label.id] = 1
-        # print(tmp)
+                                                  classroom_id=classroom_id):
+                tmp['classroom_features'][j] = 1
+        print(tmp)
         output.append(tmp)
-
     return output
-
-
 def clear_all_database():
     Classroom.objects.all().delete()
     Occupytable.objects.all().delete()
@@ -207,6 +244,10 @@ def clear_all_database():
 
 
 def update_data(json_path):
+
+    for i in lable:
+        add_label(i)
+
     print("Updating date from json files...")
     
     with open(json_path, encoding='GBK') as f:
@@ -246,6 +287,7 @@ def update_data(json_path):
                             available=1 if item[-i] == 'free' else 0,
                             covered=0
                         )
+    generate_rand_feature()
     print("Database update complete")
 
     
